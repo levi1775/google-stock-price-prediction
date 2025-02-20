@@ -25,5 +25,12 @@ The implemented model is a **stacked LSTM** network with multiple layers to capt
 ## 🔧 Installation & Setup
 ### Dependencies:
 Ensure you have the following libraries installed:
-```bash
+``bash
 pip install numpy pandas matplotlib keras scikit-learn
+
+## 🔧 Running the Project:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/google-stock-price-prediction.git
+   cd google-stock-price-prediction
+
