@@ -53,8 +53,7 @@ pip install numpy pandas matplotlib keras scikit-learn
 ```
 📉 Results & Visualization
 
-
-![comparing real vs. predicted Google stock prices.](assets/plot.png)
+<img src="assets/plot.png" alt="Prediction Plot" width="500" height="300">
 
 ## 🚀 Future Improvements
 - Experiment with **different LSTM architectures**.
