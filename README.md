@@ -52,9 +52,8 @@ pip install numpy pandas matplotlib keras scikit-learn
  ├── 📄 README.md  # Project documentation
 ```
 📉 Results & Visualization
-![comparing real vs. predicted Google stock prices.](plot.png)
+![comparing real vs. predicted Google stock prices.](assets/plot.png)
 
-You can preview the predictions using the following code snippet:
 ## 🚀 Future Improvements
 - Experiment with **different LSTM architectures**.
 - Use **GRU (Gated Recurrent Units)** for comparison.
