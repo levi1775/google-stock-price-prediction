@@ -52,6 +52,8 @@ pip install numpy pandas matplotlib keras scikit-learn
  ├── 📄 README.md  # Project documentation
 ```
 📉 Results & Visualization
+
+
 ![comparing real vs. predicted Google stock prices.](assets/plot.png)
 
 ## 🚀 Future Improvements
