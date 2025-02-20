@@ -25,19 +25,42 @@ The implemented model is a **stacked LSTM** network with multiple layers to capt
 ## 🔧 Installation & Setup
 ### Dependencies:
 Ensure you have the following libraries installed:
-``bash
+```bash
 pip install numpy pandas matplotlib keras scikit-learn
+```
 
 ## 🔧 Running the Project:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/google-stock-price-prediction.git
    cd google-stock-price-prediction
-2. **Place the dataset files (Google_Stock_Price_Train.csv and Google_Stock_Price_Test.csv) in the project directory.**   
+   ```
+2. **Place the dataset files (`Google_Stock_Price_Train.csv` and `Google_Stock_Price_Test.csv`) in the project directory.**   
 
 3. **Run the repository:**
    ```bash
    python rnn.py
+   ```
 
-   
+## 📜 File Structure
+
+```bash
+📂 google-stock-price-prediction
+ ├── 📄 rnn.py  # Model implementation
+ ├── 📊 Google_Stock_Price_Train.csv  # Training dataset
+ ├── 📊 Google_Stock_Price_Test.csv  # Test dataset
+ ├── 📄 README.md  # Project documentation
+```
+
+## 🚀 Future Improvements
+- Experiment with **different LSTM architectures**.
+- Use **GRU (Gated Recurrent Units)** for comparison.
+- Incorporate additional **technical indicators** as input features.
+- Deploy the model using **Flask or Streamlit**.
+
+## 🤝 Contributing
+Feel free to **fork**, **open issues**, and **submit PRs**!
+
+## 📜 License
+This project is licensed under the **MIT License**.
 
