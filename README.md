@@ -1,6 +1,6 @@
 # Google Stock Price Prediction using Recurrent Neural Networks (RNN)
 
-![Stock Prediction](assets/stock_market.mov)
+![Stock Prediction](assets/stock_market.mp4)
 
 ## 📌 Project Overview
 This project aims to predict Google stock price trends using **Recurrent Neural Networks (RNNs)**, specifically **Long Short-Term Memory (LSTM)** networks. The model is trained on historical stock price data from **2012 to 2016** and tested on **January 2017** data. The goal is not to predict exact prices but to capture upward and downward trends.
@@ -51,7 +51,11 @@ pip install numpy pandas matplotlib keras scikit-learn
  ├── 📊 Google_Stock_Price_Test.csv  # Test dataset
  ├── 📄 README.md  # Project documentation
 ```
+📉 Results & Visualization
 
+ comparing real vs. predicted Google stock prices.
+
+You can preview the predictions using the following code snippet:
 ## 🚀 Future Improvements
 - Experiment with **different LSTM architectures**.
 - Use **GRU (Gated Recurrent Units)** for comparison.
