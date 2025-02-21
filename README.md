@@ -1,7 +1,7 @@
 # Google Stock Price Prediction using Recurrent Neural Networks (RNN)
 
-<p align="right">
-  <img width="200px" height="200px" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlmcml5MGxodXpwdGNqejdwdjg5NjUyNzYxYzRsbGlvMmZvd2o5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi0bBEcygMJTceAhaw/giphy.gif"/>
+<p align="center">
+  <img width="300px" height="300px" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlmcml5MGxodXpwdGNqejdwdjg5NjUyNzYxYzRsbGlvMmZvd2o5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi0bBEcygMJTceAhaw/giphy.gif"/>
 </p>
 
 ## 📌 Project Overview
