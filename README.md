@@ -1,12 +1,8 @@
 # Google Stock Price Prediction using Recurrent Neural Networks (RNN)
 
-![Stock trading](assets/trading.mp4)
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlmcml5MGxodXpwdGNqejdwdjg5NjUyNzYxYzRsbGlvMmZvd2o5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi0bBEcygMJTceAhaw/giphy.gif"/>
-
-
-
-
-
+<p align="right">
+  <img width="200px" height="200px" alt="side_sticker" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlmcml5MGxodXpwdGNqejdwdjg5NjUyNzYxYzRsbGlvMmZvd2o5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mi0bBEcygMJTceAhaw/giphy.gif"/>
+</p>
 
 ## 📌 Project Overview
 This project aims to predict Google stock price trends using **Recurrent Neural Networks (RNNs)**, specifically **Long Short-Term Memory (LSTM)** networks. The model is trained on historical stock price data from **2012 to 2016** and tested on **January 2017** data. The goal is not to predict exact prices but to capture upward and downward trends.
@@ -57,7 +53,8 @@ pip install numpy pandas matplotlib keras scikit-learn
  ├── 📊 Google_Stock_Price_Test.csv  # Test dataset
  ├── 📄 README.md  # Project documentation
 ```
-📉 Results & Visualization
+
+## 📉 Results & Visualization
 
 <img src="assets/plot.png" alt="Prediction Plot" width="500" height="300">
 
