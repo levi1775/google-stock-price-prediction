@@ -34,7 +34,7 @@ pip install numpy pandas matplotlib keras scikit-learn
 ## 🔧 Running the Project:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/google-stock-price-prediction.git
+   git clone https://github.com/levi1775/google-stock-price-prediction.git
    cd google-stock-price-prediction
    ```
 2. **Place the dataset files (`Google_Stock_Price_Train.csv` and `Google_Stock_Price_Test.csv`) in the project directory.**   
